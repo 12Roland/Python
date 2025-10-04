@@ -1,3 +1,4 @@
+# Typing speed bla bla bla
 import time
 import random
 
