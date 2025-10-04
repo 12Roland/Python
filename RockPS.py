@@ -1,3 +1,4 @@
+# Rock Paper Scissors in python
 import random
 
 def play():
