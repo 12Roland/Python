@@ -1,3 +1,4 @@
+# Hangman in python
 import random
 
 def hangman():
