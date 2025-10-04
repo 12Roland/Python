@@ -1,4 +1,4 @@
-# Simple To-Do List App in Python
+# Simple To-Do List App in Python pl
 
 tasks = []
 
