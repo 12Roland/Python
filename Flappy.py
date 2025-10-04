@@ -1,3 +1,4 @@
+# Flappy bird game in python (Type shii)
 import pygame, sys, random
 
 # Initialize
