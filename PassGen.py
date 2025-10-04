@@ -1,6 +1,7 @@
+
 #!/usr/bin/env python3
 """
-Interactive Password Generator
+Interactive Password Generator (Naturally)
 Uses `secrets` for cryptographically secure random choices.
 """
 
