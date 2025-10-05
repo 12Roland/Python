@@ -1,4 +1,4 @@
-# Quiz game in Python
+# Quiz game in Python pl
 def quiz_game():
     questions = {
         "What is the capital of France?": ["a) Berlin", "b) Paris", "c) Madrid", "d) Rome"],
