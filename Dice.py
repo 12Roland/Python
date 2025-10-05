@@ -1,4 +1,4 @@
-# Dice game code in pyton
+# Dice game code in python
 import random
 
 def roll_dice():
