@@ -1,4 +1,6 @@
+
 # Minesweeper game in python
+
 import random
 
 def create_board(size, bombs):
