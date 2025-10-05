@@ -1,4 +1,4 @@
-# Hangman in python
+# Hangman in python pl
 import random
 
 def hangman():
