@@ -1,4 +1,4 @@
-# Snake game in pyton
+# Snake game in python pl
 import turtle
 import time
 import random
